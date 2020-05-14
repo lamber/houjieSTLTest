@@ -1,5 +1,9 @@
 创建分支，git命令联系
 feature 添加冲突，并且解决冲突
 goback master....
+<<<<<<< HEAD
 goback master....
 goback master....
+=======
+feature 添加冲突，并且解决冲突111
+>>>>>>> feature1
